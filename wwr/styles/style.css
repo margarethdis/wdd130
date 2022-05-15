@@ -94,10 +94,13 @@ footer{
 
 footer{
     text-decoration: underline;
+    color: #FFFFFF;
 }
 h3{
     text-decoration: underline;
+    color: #FFFFFF;
 }
 a:hover {
     text-decoration: underline;
+    color: #FFFFFF;
 }
