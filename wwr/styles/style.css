@@ -3,6 +3,32 @@ div {
     margin: 0 auto;
 }
 
-.center{
+nav{
+    text-align: center;
+} 
+
+a{
+    text-align: center;
+}
+
+hero-msg{
+    text-align: center;
+} 
+h1{
+    text-align: center;
+}
+hero-msg{
+    text-align: center;
+} 
+h4{
+    text-align: center;
+}
+button-box{
+    text-align: center;
+}
+main{
+    text-align: center;
+} 
+section{
     text-align: center;
 }
