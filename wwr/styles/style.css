@@ -5,10 +5,12 @@ div {
 
 nav{
     text-align: center;
+    text-decoration: none;
 } 
 
 a{
     text-align: center;
+    text-decoration: none;
 }
 
 hero-msg{
@@ -37,32 +39,65 @@ section{
 }
 body {
     background-color: #FFFFFF; 
+    color: black;
 }
 header {
     background-color:#e9ae35;
+    color: #FFFFFF;
+}
+nav a{
+    background-color: #e9ae35;
+    color: #FFFFFF;
 }
 nav a:hover {
     background-color:#FFFFFF;
+    color: black;
 }
 
 .book{
     background-color:#FFFFFF ;
+    color: black;
+    text-decoration: none;
 }
 .join{
     background-color:#e9ae35;
+    color: black;
+    text-decoration: none;
 }
 .book:hover{
     background-color: #484848;
+    color: #FFFFFF;
 }
 .join:hover{
     background-color: #FFFFFF;
+    color: black;
 }
 #background{
-    background-color: #0c71a5;
+    background-color: black;
+    color: #FFFFFF;
 }
 .msg{
     background-color: #e9ae35;
+    color: black;
 }
 footer{
     background-color: #484848;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.logo{
+    width: 80px;
+}
+#hero-img{
+    width: 100%;
+}
+
+footer{
+    text-decoration: underline;
+}
+h3{
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: underline;
 }
