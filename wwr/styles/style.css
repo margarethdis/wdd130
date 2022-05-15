@@ -36,11 +36,33 @@ section{
     height: 725px;
 }
 body {
-    background-color: #fcfbfb; 
+    background-color: #FFFFFF; 
 }
 header {
-    background-color:rgba(20,30,13, .7);
+    background-color:#e9ae35;
 }
 nav a:hover {
-    background-color: black;
+    background-color:#0c71a5;
+}
+
+.book{
+    background-color:#e9ae35 ;
+}
+.join{
+    background-color:#484848;
+}
+.book:hover{
+    background-color: #0c71a5;
+}
+.join:hover{
+    background-color: #FFFFFF;
+}
+#background{
+    background-color: #0c71a5;
+}
+.msg{
+    background-color: #e9ae35;
+}
+footer{
+    background-color: #484848;
 }
