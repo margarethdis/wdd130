@@ -42,17 +42,17 @@ header {
     background-color:#e9ae35;
 }
 nav a:hover {
-    background-color:#0c71a5;
+    background-color:#FFFFFF;
 }
 
 .book{
-    background-color:#e9ae35 ;
+    background-color:#FFFFFF ;
 }
 .join{
-    background-color:#484848;
+    background-color:#e9ae35;
 }
 .book:hover{
-    background-color: #0c71a5;
+    background-color: #484848;
 }
 .join:hover{
     background-color: #FFFFFF;
