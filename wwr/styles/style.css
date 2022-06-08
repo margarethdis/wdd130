@@ -1,3 +1,41 @@
+
+
+.home-title{
+font-family:'Times New Roman', 'Times', 'serif' ;
+font-size: 80px;
+margin-top: 10px;
+}
+
+.slog{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+}
+
+.home-grid{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 35px;
+}
+
+.button-box{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 35px;
+}
+.msg{
+font-family: 'Times New Roman', 'Times', 'serif';
+font-size: 45px;
+background-color: #6f7364;
+line-height: 1.5em;
+padding: 35px;
+}
+.footer{
+font-family: 'Times New Roman', Times, serif;
+font-size: 33px;
+}
+
+.icon{
+    padding-top: 10px;
+}
+
 div {
     max-width: 1600px;
     margin: 0 auto;
@@ -30,6 +68,7 @@ button-box{
 }
 main{
     text-align: center;
+
 } 
 section{
     text-align: center;
@@ -40,29 +79,45 @@ section{
 body {
     background-color: #FFFFFF; 
     color: black;
+    font-size: 22px;
+    margin:0;
+    padding:0
 }
 header {
     background-color:#e9ae35;
     color: #FFFFFF;
 }
-nav a{
-    background-color: #e9ae35;
-    color: #FFFFFF;
+h2{
+    margin: 0%;
 }
+
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+              
 nav a:hover {
     background-color:#FFFFFF;
     color: black;
+    
 }
-
+.rivers-card, .camping-card, .rapids-card {
+    margin:200px 0px;
+}
 .book{
     background-color:#FFFFFF ;
     color: black;
     text-decoration: none;
+    padding: 15px ;
+    
 }
 .join{
     background-color:#e9ae35;
     color: black;
     text-decoration: none;
+    padding: 30px;
 }
 .book:hover{
     background-color: #484848;
@@ -80,10 +135,17 @@ nav a:hover {
     background-color: #e9ae35;
     color: black;
 }
+
+.msg p {
+    padding-bottom: 15px;
+}
 footer{
     background-color: #484848;
     color: #FFFFFF;
     text-decoration: none;
+    padding: 25px 50px;
+    margin-bottom: 200px;
+
 }
 .logo{
     width: 80px;
@@ -92,10 +154,7 @@ footer{
     width: 100%;
 }
 
-footer{
-    text-decoration: underline;
-    color: #FFFFFF;
-}
+
 h3{
     text-decoration: underline;
     color: #FFFFFF;
@@ -104,3 +163,28 @@ a:hover {
     text-decoration: underline;
     color: #FFFFFF;
 }
+
+#logo_link{
+    padding-top: 5px;
+}
+
+.social{
+    padding-top: 15px;
+}
+
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
+          

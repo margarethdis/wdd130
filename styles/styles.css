@@ -17,7 +17,7 @@ h1{
 }
 img {
     width: 800px;
-    border: 15px solid steelblue;
+    border: 50px solid steelblue;
   }
   img {
     width: 80%;
@@ -39,7 +39,7 @@ img {
   color: steelblue;
 }
 p {
-    padding: 10px;
+    padding: 50px;
   }
 img {
   width: 80%;
