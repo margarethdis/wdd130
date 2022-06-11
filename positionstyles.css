@@ -105,28 +105,31 @@ margin-top: -20px;
 .content4 {
     /* This is the parent of the activity 4 boxes. */
     display:grid;
-    grid-template-columns: ;
+    grid-template-columns: 1fr 1fr;
     height: 400px;
 }
 .red4 {
-width: 100px; 
-height: 100px; 
+width: 100%; 
+height: 200%; 
 background-color: red; 
+grid-column: 1 span 2 ;
  } 
 .green4 {
-width: 100px; 
+width: 100%; 
 height: 100px; 
 background-color: green; 
 } 
 .yellow4 {
-width: 100px; 
+width: 100%; 
 height: 100px; 
 background-color: gold; 
+margin: 0px 
  } 
 .blue4 {
-width: 100px; 
+width: 100%; 
 height: 100px; 
 background-color: blue; 
+
  } 
  /* Activity 5 styles */ 
  .content5 {
