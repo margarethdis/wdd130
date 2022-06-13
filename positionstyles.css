@@ -149,12 +149,13 @@ z-index: 1;
 width: 100%; 
 height: 200px; 
 background-color: gold; 
-position:relative;
+z-index: 2;
 } 
 .blue5 {
 width: 100%; 
 height: 100px; 
 background-color: blue; 
+top: 20px;
  } 
  /* Activity 6 styles */ 
  .content6 {
