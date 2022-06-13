@@ -133,6 +133,7 @@ grid-column-start: 2;
     /* This is the parent of the activity 5 boxes. */
      height: 400px;
      display: grid;
+     grid-template-columns: auto;
 }
 .red5 { 
 width: 100%; 
