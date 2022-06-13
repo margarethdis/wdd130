@@ -148,6 +148,7 @@ float: left;
 width: 100%; 
 height: 200px; 
 background-color: gold; 
+position: relative;
 } 
 .blue5 {
 width: 100%; 
