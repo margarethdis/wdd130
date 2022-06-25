@@ -349,3 +349,10 @@ main section img {
             
 /* here starts page #2 Rivers */        
 
+#river-img{
+     width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    margin-top: 0px; 
+}
+
