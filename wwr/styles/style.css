@@ -355,6 +355,7 @@ main section img {
     grid-template-columns: 1fr 3fr 1fr;
     margin-top: 0px; 
     margin-right: 1000px;
+    margin-bottom: 50px;
 }
 
 .content-river{
@@ -378,4 +379,64 @@ main section img {
     color: #FFFFFF;
     font-size: 30px;
     
+}
+
+.description{
+    background-color: #6f7364;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', 'Times, serif';
+}
+.rivers-name, h2{
+    margin: 10px;
+    margin-bottom: 50px;
+
+}
+
+.rivers-name, p {
+    text-align: justify;
+    font-family: 'Times New Roman', 'Times, serif';
+    font-size: 45px;
+    margin-bottom: 100px;
+    
+}
+
+.main_fork{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', 'Times, serif';
+}
+
+#first-river{
+margin-top: 30px ;
+margin-left: 270px;
+
+
+}
+
+.desolation{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: 'Times New Roman', 'Times, serif';
+}
+#second-river{
+    float: right;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+.Grand{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: 'Times New Roman', 'Times, serif';
+}
+
+#Third-river{
+    float: left;
+    margin-right: 60px;
+    margin-bottom: 30px;
 }
