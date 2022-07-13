@@ -1,6 +1,43 @@
-.encabezado{
+
+header{
  display: grid;
- grid-template-columns: 2fr 1fr 1fr 1fr;
+ grid-template-columns: 200px 1fr ;
  background-color: #efefef;
+ margin-bottom: 30px;
+ height: 100%;
 }
 
+nav{
+    margin-top: 80px;
+    background-color:#efefef;
+    line-height: 30px;
+    text-align: center;
+    font-size :50px;
+}
+
+nav a {
+    position: relative;
+    bottom: 45px;
+    left: 100px;
+    min-width: 120px;
+    text-decoration: none;
+    margin: 20px 40px;
+    margin-left: 100px;
+    padding: 5px;
+}
+
+    nav a:link, nav a:visited{
+        color:#5d2e8c;
+    }
+
+    nav a:hover {
+        color:#efefef;
+        background-color:#5d2e8c;
+      }
+    
+.logo{
+    position: relative;
+    width:500px;
+    top: 2px;
+      
+      }
