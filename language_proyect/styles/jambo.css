@@ -1,15 +1,6 @@
-header{
-    display: flex;
-    height: 70px;
-    align-items: center;
-
-
+.encabezado{
+ display: grid;
+ grid-template-columns: 2fr 1fr 1fr 1fr;
+ background-color: #efefef;
 }
 
-.logo{
-    display: flex;
-}
-
-.logo img{
-    height: 50px;
-}
