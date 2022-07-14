@@ -4,6 +4,7 @@ header{
  grid-template-columns: 200px 1fr ;
  background-color: #efefef;
  height: 100%;
+ width: 100%;
 }
 
 nav{
@@ -43,6 +44,7 @@ nav a {
 
 .content-description{
     display: grid;
+    width: 100%;
 
 }
 
@@ -50,6 +52,7 @@ nav a {
 .texto-encima{
     height: 200px;
     background-color: #5d2e8c;
+    width: 1133px;
     color: #FFFFFF;
     text-align: center;
     font-size: 50px;
@@ -65,7 +68,8 @@ nav a {
     background:#FFFFFF;
     color: #5d2e8c;
     position:relative;
-    bottom: 140px;
+    bottom: 110px;
+    left: -110px;
     align-self: center;
     justify-self: center;
     align-items: center;
@@ -128,8 +132,12 @@ nav a {
 }
 
 .goals{
-    font-size: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    font-size: 50px;
     margin-bottom: 100px;
+    left: 300px;
 }
 
 .games-grid{
