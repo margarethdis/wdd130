@@ -114,21 +114,33 @@ nav a {
 .home-grid img{
 
     position: relative;
-    right: 700px;
-    top: -500px;
-    width: 600px;
+   
 }
 
+.home-grid .imagenmetas{
+    position: relative;
+    top: -340px;
+    width: 300px;
+    height: 300px;
+    right: 250px;
+   align-items: center;
+}
+
+.home-grid .juegos{
+    position: relative;
+    width: 200px;
+
+}
 .p-goals{
     position: relative;
     left: 100px;
     font-size: 20px;
-    margin-right: 800px;
-    margin-left:800px ;
-    text-align: justify;
-    left: 500px;
-    top: 200px;
-    font-size:50px;
+    margin-right: 500px;
+    margin-left:500px ;
+    text-align: left;
+    left: 200px;
+    top: -20px;
+    font-size:30px;
 }
 
 .goals{
@@ -142,5 +154,32 @@ nav a {
 
 .games-grid{
     grid-column: 2/3;
+    position: relative;
+    top:-200px;
+    right: 400px;
+    font-size: 20px;
 }
 
+.games1{
+    font-size: 50px;
+    position: relative;
+    right: -60px;
+    bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.games2{
+    font-size:30px ;
+    margin: 0px 300px 00px 200px;
+    text-align: right;
+    position: relative;
+    right: 180px;
+}
+
+.games-grid .juegos{
+    position: relative;
+    top: -180px;
+    left:250px;
+    width: 300px;
+    height: 300px
+}
