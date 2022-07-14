@@ -58,21 +58,40 @@ nav a {
 }
 
 .button-box{
+    cursor: pointer;
     display:grid;
     width: 300px;
     height: 50px;
     background:#FFFFFF;
     color: #5d2e8c;
     position:relative;
-    bottom: 100px;
+    bottom: 140px;
     align-self: center;
     justify-self: center;
     align-items: center;
     justify-content: center;
-    padding: 10px 50px 
-    font-size: 100px;
+    padding: 10px 40px 20px 40px;
+    font-size: 50px;
     text-align: center;
-    border-radius: 5px
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.book{
+    text-decoration: none;
+    color:black;
+}
+
+.book:hover{
+    color: #FFFFFF;
+    transition: .5s;
+}
+.button-box:hover{
+    background-position: left;
+     background-image: linear-gradient(to right,   #6f439b ,#cbc7ec  );
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: left;
+    transition: background-position .5s ease;
     
-   
 }
