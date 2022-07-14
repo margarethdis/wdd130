@@ -127,14 +127,9 @@ nav a {
     font-size:50px;
 }
 
-.games-grid{
-    position: relative;
-    grid-row: 3;
-}
-
-
 .goals{
     font-size: 80px;
     margin-bottom: 100px;
 }
-    
+
+
