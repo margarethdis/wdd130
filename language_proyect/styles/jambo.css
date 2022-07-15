@@ -194,7 +194,7 @@ nav a {
     position: relative;
     top: -150px;
     left: 400px;
-    
+    margin-bottom: -5px;
 }
 
 .interests{
@@ -262,7 +262,7 @@ footer {
 .contactus{
     position: relative;
     top: -50px;
-    right:300px;
+    right:170px;
     text-decoration: none;
     color: #FFFFFF;
 }
@@ -273,7 +273,6 @@ footer {
     text-decoration: none;
     color: #FFFFFF;
     font-size: 50px;
-    margin: auto;
     top: -40px;
 }
 
@@ -283,3 +282,21 @@ footer {
     top: -60px;
 }
 
+.siteplan{
+    text-decoration: none;
+    color:#FFFFFF;
+    border-style: outset;
+    border-radius: 5px;
+}
+
+.siteplan:hover{
+    color: #FFFFFF;
+    transition: .5s;
+}
+.siteplan:hover{
+    background-position: left;
+     background-image: linear-gradient(to right,   #6f439b ,#cbc7ec  );
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: left;
+    transition: background-position .5s ease;
