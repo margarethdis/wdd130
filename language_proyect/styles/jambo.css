@@ -1,5 +1,6 @@
 
 header{
+ font-family: Stoke , Charis SIL , sans-serif;
  display: grid;
  grid-template-columns: 200px 1fr ;
  background-color: #efefef;
@@ -133,6 +134,7 @@ nav a {
 
 }
 .p-goals{
+    font-family: Stoke , Charis SIL , sans-serif;
     position: relative;
     left: 100px;
     font-size: 20px;
@@ -162,6 +164,7 @@ nav a {
 }
 
 .games1{
+    font-family: Charis SIL;
     font-size: 50px;
     position: relative;
     right: -60px;
@@ -170,11 +173,13 @@ nav a {
 }
 
 .games2{
+    font-family: Stoke , Charis SIL , sans-serif;
     font-size:30px ;
     margin: 0px 300px 00px 200px;
     text-align: right;
     position: relative;
     right: 180px;
+    top: 50px;
 }
 
 .games-grid .juegos{
@@ -199,7 +204,7 @@ nav a {
 }
 
 .interest-description{
-
+    font-family: Stoke , Charis SIL , sans-serif;
     font-size: 30px;
     text-align: left;
     position: relative;
