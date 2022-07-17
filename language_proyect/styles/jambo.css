@@ -147,19 +147,19 @@ nav a:hover {
 
 .games-grid{
     color:black;
-    position: relative;
+   
     
 }
 
 .games1{
     position: relative;
-    top: -250px;
+    top: -260px;
 
 }
 
 .games2{
     position: relative;
-    top: -100px;
+    top: -200px;
     font-size: 30px;
     margin-left: 650px;
     text-align: right;
@@ -168,7 +168,7 @@ nav a:hover {
 
 .juegos{
     position: relative;
-    top: -350px;
+    top: -450px;
     width: 300px;
     height: 300px;
 left: 250px;
@@ -177,13 +177,33 @@ left: 250px;
 .intereses-grid{
     color: black;
     position: relative;
-    top: -20PX;
+  
+ 
 }
 
+.interests{
+    position: relative;
+    top: -260px;
+}
+
+.interest-description{
+    position: relative;
+    top: -200px;
+    left: -100px;
+    margin-left: 700px;
+    text-align: left;
+    font-size: 30px;
+}
+.podcast{
+    position: relative;
+    top: -460px;
+    width: 300px;
+    left: -250px;
+}
 .footer{
     background-color: #5d2e8c;
     position: relative;
-    top: 540px;
+    top: 140px;
     height: 400px;
     width: 1068px;
 }
