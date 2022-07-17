@@ -208,3 +208,44 @@ left: 250px;
     width: 1068px;
 }
 
+.contactus,.siteplan{
+    color: #fff;
+text-decoration: none;
+}
+
+.contactus{
+    position: relative;
+    right: 300px;
+}
+
+.contactus, .fc ,.twitter, .ig{
+    position: relative;
+    top: 60px;
+}
+.social{
+    position: relative;
+    right: 300px;
+}
+
+.siteplan{
+    position: relative;
+    left: 500px;
+    top: -90px;
+    font-size: 80px;
+    border-radius: 7px;
+   
+}
+
+.siteplan{
+    background-position: left;
+    background-image: linear-gradient(to right,   #6f439b ,#cbc7ec  );
+   background-repeat: no-repeat;
+   background-position: left;
+
+}
+
+.siteplan:hover{
+    color: #5d2e8c;
+    background-repeat: no-repeat;
+    transition: background-position .5s ease;
+}
