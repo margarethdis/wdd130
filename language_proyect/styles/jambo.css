@@ -136,7 +136,7 @@ nav a {
 .p-goals{
     font-family: Stoke , Charis SIL , sans-serif;
     position: relative;
-    left: 100px;
+    left: 190px;
     font-size: 20px;
     margin-right: 550px;
     margin-left:500px ;
@@ -155,13 +155,6 @@ nav a {
     left: 300px;
 }
 
-.games-grid{
-    grid-column: 2/3;
-    position: relative;
-    top:-50px;
-    right: 400px;
-    font-size: 20px;
-}
 
 .games1{
     font-family: Charis SIL;
@@ -182,12 +175,9 @@ nav a {
     top: 50px;
 }
 
-.games-grid .juegos{
+.games-grid{
     position: relative;
-    top: -180px;
-    left:300px;
-    width: 300px;
-    height: 300px
+    top: -300px;
 }
 
 .intereses-grid{
