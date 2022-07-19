@@ -303,7 +303,9 @@ nav a {
     margin: 20px;
     top: 40px;
 }
-
+.españa:hover, .usa:hover , .china:hover, .rusia:hover , .brasil:hover{
+    transform: scale(1.2);
+}
 .languages-grid{
     z-index: 1;
     height: 400px;
