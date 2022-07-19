@@ -257,7 +257,7 @@ text-decoration: none;
     max-width: 1000px;
     margin: auto auto ;
     display: grid;
-
+    border-radius: 5px;
     grid-gap: 20px;
  }
 
@@ -266,6 +266,7 @@ text-decoration: none;
     position: relative;
     left: 520px;
     top: 50px;
+    border-radius: 5px;
     
 }
 
@@ -285,7 +286,7 @@ nav a {
  .language-grid{
     display: grid;
     grid-template-columns: 200px 200px 200px;
-    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr ;
  }
 
 .logo2{
@@ -293,6 +294,7 @@ nav a {
     width: 400px;
     height: 190px;
     top:10px ;
+    border-radius: 5px;
 
 }
 
@@ -311,7 +313,8 @@ nav a {
     height: 400px;
     border-style:solid;
     border-color: #5d2e8c;
-    border-width: 1px;
+    border-width: 5px;
+    border-radius: 5px;
     position: relative;
     top: -20px;
    
@@ -349,17 +352,39 @@ nav a {
     left: 200px;
 }
 .step{
-    margin-bottom:100px ;
+    margin-bottom:10px ;
    
 }
 
 .escaleras{
     position: relative;
-    left: 350px;
+    left: 380px;
+    margin-top: 40px;
+}
+
+.step-left{
+    font-size: 30px;
+    margin-right: 800px;
+    text-align: justify;
+    position: relative;
+    top: -300px;
+    right: -60px;
+}
+
+.step-right{
+    font-size: 30px;
+    margin-left: 800px;
+    text-align:justify;
+    position: relative;
+    top: -540px;
+    left: -100px;
 }
 
 .world-languages{
     margin-bottom:100px;
+    position: relative;
+    left: -20px;
+    top: 100px;
 }
 .mundo{
     position: relative;
@@ -376,7 +401,19 @@ nav a {
     margin-left: 500px;
     position: relative;
     top: -200px;
+    text-align: justify;
+    right: 50px;
 }
+
+/*medio*/
+.stepby{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
 
 .mundo, .habilidades{
     position: relative;
@@ -386,22 +423,68 @@ nav a {
 .head-habilities{
     font-size: 40px;
     position: relative;
-    left: 480px;
+    left: 460px;
+}
+
+.head-habilities{
+    position: relative;
+    top: 100px;
+    font-size: 40px;
 }
 
 .parrafo{
     font-size: 30px;
     margin-left: 500px;
     position: relative;
-    top: -250px;
-    right: 15px;
+    top: -190px;
+    right: 45px;
+    text-align: justify;
 }
 
+.habilities-grid{
+    position: relative;
+    top: -400px;
+}
 
  
 .footer2{
     background-color: #5d2e8c;
-    margin: auto auto ;
-    height: 400px;
+    margin: auto auto  ;
+    height: 200px;
     width: 1068px;
+ 
+}
+
+.contactus2{
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    position: relative;
+    right: -130px;
+    top: 20px;
+
+}
+
+.social2{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.siteplan2{
+    color: #fff;
+    position: relative;
+    left: 450px;
+    top: -80px;
+    text-decoration: none;
+    font-size: 50px;
+    
+}
+
+.siteplan2:hover{
+    background:#cbc7ec;
+    color: #5d2e8c;
+    border-radius: 5px;
+    padding-left:10px ;
+    padding-right: 10px;
 }
