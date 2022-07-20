@@ -778,27 +778,38 @@ left: 270px;
 }
 
 .comunidad-head{
-    font-size: 30px;
+    font-size: 50px;
     position: relative;
-    top: 50px;
-    left: 120px;
+    top: 800px;
+    left: 250px;
 
 }
 
 .comunidad-p{
-    font-size: 25px;
+    font-size: 30px;
     margin-left: 100px;
     margin-right: 600px;
     position: relative;
-    top: 80px;
-
+    top:100px;
+    text-align: right;
+    
 }
 
 .blog{
     width: 300px;
     position: relative;
     left: 150px;
+    top: -140px;
 }
+
+.last{
+    font-size: 30px;
+    margin-right: 550px;
+    position: relative;
+    left: 500px;
+    top: 70px;
+}
+
 
 
 
