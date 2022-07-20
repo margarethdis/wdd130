@@ -605,7 +605,7 @@ color: #FFFFFF;}
     position: relative;
     left: 450px;
     font-size: 25px;
-    top: -390px;
+    top: -374px;
 }
 
 .experience-1{
@@ -622,6 +622,7 @@ color: #FFFFFF;}
     left: 450px;
     text-decoration: none;
     color: #5d2e8c;
+    font-size: 30px;
     background-color: #cbc7ec;
     padding: 10px 15px 10px 20px ;
 }
@@ -720,14 +721,77 @@ left: 270px;
     left: 760px;
     top: -570px;
 }
+ /*blog experiencia*/
 
+.amigos{
+    position: relative;
+    left: 100px;
+}
 
+.title-experience-2{
+    font-size: 30px;
+    position: relative;
+    left: 550px;
+    top: -400px;
+
+}
+.name-place-2{
+    font-size: 20px;
+    position: relative;
+    left: 550px;
+    top: -380px;
+
+}
+
+.experience-2{
+    font-size: 25px;
+    margin: 0 100px 0 500px;
+    position: relative;
+    left:50px;
+    top: -360px;
+
+}
+.read-2{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: #cbc7ec;
+    color: #5d2e8c;
+    padding: 0 20px 0  20px;
+    position: relative;
+    top: -300px;
+    left: 550px;
+    padding: 10px 15px 10px 20px;
+
+}
+
+.read-2:hover{
+    background-color: #5d2e8c;
+    color: #fff;
+}
 
 /* Viene imagen de comunidad*/
 .comunidad{
     width: 300px;
     position: relative;
     left:600px;
+    top: -125px;
+}
+
+.comunidad-head{
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+    left: 120px;
+
+}
+
+.comunidad-p{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 600px;
+    position: relative;
+    top: 80px;
+
 }
 
 .blog{
@@ -735,34 +799,6 @@ left: 270px;
     position: relative;
     left: 150px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
