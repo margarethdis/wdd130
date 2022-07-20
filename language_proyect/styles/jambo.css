@@ -635,10 +635,10 @@ color: #FFFFFF;}
 
 .blogger{
     margin-top: 50px;
-    width: 150px;
+    width: 200px;
     position: relative;
     left: 70px;
-    top: 100px;}
+    top:70px;}
 
 /*chico y chica testimonios*/
 
@@ -657,8 +657,8 @@ color: #FFFFFF;}
     text-align: center;
     color: #efefef;
     position: relative;
-    left: -250px;
-    top: 150px;
+    left:-230px;
+    top: 90px;
     font-size: 20px;
 
 }
@@ -667,14 +667,14 @@ color: #FFFFFF;}
     width: 200px;
     position: relative;
     left: 380px;
-    top: -220px;
+    top: -260px;
 }
 
 
 .mary{
 font-size: 20px;
 position: relative;
-top: -200px;
+top: -240px;
 left: 430px;
 font-weight: bold;
 color: #fff;
@@ -686,7 +686,7 @@ margin-left:500px;
 margin-right: 400px;
 color: #efefef;
 position: relative;
-top: -180px;
+top: -220px;
 left: -110px;
 
 
