@@ -634,10 +634,90 @@ color: #FFFFFF;}
 /*imagen de bloguer*/
 
 .blogger{
-    width: 250px;
+    margin-top: 50px;
+    width: 150px;
+    position: relative;
+    left: 70px;
 }
 
 /*chico y chica testimonios*/
+
+.testimonios{
+    background-color: #7a579c;
+    position: relative;
+    top: -150px;
+    height: 500px;
+}
+
+.p-blog{
+    margin-left: 300px;
+    margin-right: 600px;
+    text-align: center;
+    color: #efefef;
+    position: relative;
+    left: -250px;
+
+}
+
+.girl{
+    width: 200px;
+    position: relative;
+    left: 380px;
+    top: -220px;
+}
+
+
+.mary{
+font-size: 20px;
+position: relative;
+top: -200px;
+left: 430px;
+font-weight: bold;
+color: #fff;
+}
+
+.mary1{
+font-size: 20px;
+margin-left:500px;
+margin-right: 400px;
+color: #efefef;
+position: relative;
+top: -180px;
+left: -110px;
+
+
+}
+
+.alex{
+    font-size: 20px;
+position: relative;
+top: -550px;
+left: 790px;
+font-weight: bold;
+color: #fff;
+
+}
+.alex1{
+    font-size: 20px;
+margin-left:500px;
+margin-right: 400px;
+color: #efefef;
+position: relative;
+top: -530px;
+left: 270px;
+
+
+}
+
+.boy{
+    
+    width: 200px;
+    position: relative;
+    left: 760px;
+    top: -570px;
+}
+
+
 
 /* Viene imagen de comunidad*/
 .comunidad{
