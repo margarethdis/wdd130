@@ -689,6 +689,7 @@ color: #efefef;
 position: relative;
 top: -220px;
 left: -80px;
+text-align: center;
 
 
 }
@@ -701,6 +702,7 @@ left: 790px;
 font-weight: bold;
 color: #fff;
 
+
 }
 .alex1{
     font-size: 20px;
@@ -710,6 +712,7 @@ color: #efefef;
 position: relative;
 top: -530px;
 left: 270px;
+text-align: center;
 
 
 }
