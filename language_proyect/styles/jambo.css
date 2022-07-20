@@ -539,3 +539,189 @@ color: #FFFFFF;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color:#5d2e8c;}
+
+/*blog*/
+
+.contenedor3{
+    width: 100%;
+    max-width: 1000px;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto auto ;
+    display: grid;
+  
+    border-radius: 5px;
+    grid-gap: 20px;
+}
+
+/*encabezado*/
+
+.logo3{
+    width: 500px;
+    height: 200px;
+}
+
+.navs{
+    position: relative;
+    left: 540px;
+    top: 50px;
+}
+
+/*cuerpo*/
+/*debajo del encabejado va una frase con background*/
+
+.description-blog{
+    background-color: #5d2e8c;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+    position: relative;
+    top: -20px;
+}
+
+
+
+
+/*imagen de blog cafe */
+
+.blogger-coffie{
+    position: relative;
+    left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.title-experience-1{
+
+    font-size: 30px;
+    padding: 0 400px 0 200px;
+    position: relative;
+    top: -400px;
+    left: 250px;
+}
+
+.name-place{
+    position: relative;
+    left: 450px;
+    font-size: 25px;
+    top: -390px;
+}
+
+.experience-1{
+   font-size: 25px ;
+   position: relative;
+   padding: 0 200px 0 400px;
+   left: 50px;
+   top: -350px;
+}
+
+.read-1{
+    position: relative;
+    top: -310px;
+    left: 450px;
+    text-decoration: none;
+    color: #5d2e8c;
+    background-color: #cbc7ec;
+    padding: 10px 15px 10px 20px ;
+}
+
+.read-1:hover{
+    background-color: #5d2e8c;
+    color: #fff;
+}
+
+/*imagen de bloguer*/
+
+.blogger{
+    width: 250px;
+}
+
+/*chico y chica testimonios*/
+
+/* Viene imagen de comunidad*/
+.comunidad{
+    width: 300px;
+    position: relative;
+    left:600px;
+}
+
+.blog{
+    width: 300px;
+    position: relative;
+    left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+
+.footer3{
+    margin-top: 100px;
+    background-color: #5d2e8c;
+    position: relative;
+    
+    height: 300px;
+    width: 1090px;
+}
+
+.social3{
+    position: relative;
+    top: 80px;
+    left: 100px;
+
+}
+.contactus3{
+    color: #ffff;
+    text-decoration: none;
+    position: relative;
+    left: 90px;
+    font-size: 50px;
+    top: 50px;
+}
+.learn{
+    color:#fff;
+    font-size: 40px;
+    text-decoration: none;
+    position: relative;
+    left: 150px;
+    top: -50px;
+    font-size: 80px;    
+}
+
+.learn:hover{
+background:#cbc7ec;
+    color: #5d2e8c;
+    border-radius: 5px;
+    padding-left:10px ;
+    padding-right: 10px;
+}
+
